@@ -1,0 +1,2 @@
+# AmazingMineAcademyPlugin
+ Im beautiful :D
